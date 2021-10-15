@@ -1,5 +1,4 @@
-# [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
-
+# Metric-Imperial Converter
 The purpose of this project is to create unit tests and functional tests in Express.js with Chai library.
 
 ### Supports the below convertions:
